@@ -64,7 +64,7 @@ void transpose(int row, int col, int array[row][col]){
 //TRANSPOSE OF A FLOAT MATRIX
 void ftranspose(int row, int col, float array[row][col]){
 	int i,j,k = 0;
-	int temp1,temp2;
+	float temp1,temp2;
 	for(i = 0; i<row; i++){
 		for(j = k; j<col; j++){
 			temp1 = array[i][j];
