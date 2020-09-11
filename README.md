@@ -1,4 +1,5 @@
 #pylist.h
+
 The pylist.h is a library to input and manipulate the 1D integer and float arrays.
 To use this file in your program first copy it to your current working directory.
 Then simply put 
@@ -23,6 +24,7 @@ int array1;
 intarrayin(x,6,array1)
 
 #pymat.h
+
 The pymat.h is a library to input and manipulate the 2D integer and float arrays.
 To use this file in your program first copy it to your current working directory.
 Then simply put 
@@ -34,6 +36,7 @@ But like pylist.h, the array reading functions require an explicit variable of
 specified data type to work. 
 
 #climate
+
 climate stands for Command Line Interfaced MATrix Environment
 climate is a runtime environment for performing basic I/O and operations on
 1D integer arrays.
