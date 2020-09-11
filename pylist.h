@@ -59,7 +59,8 @@ void invert(int size, int array[size]){
 
 //INVERTING A FLOAT ARRAY
 void finvert(int size, float array[size]){
-	int i,temp1,temp2;
+	int i;
+        float temp1,temp2;
 	for(i = 0;i<size/2;i++){
 		temp2 = array[size-1-i] ;
 		temp1 = array[i];
