@@ -40,7 +40,7 @@ specified data type to work.
 
 # climate
 
-climate stands for Command Line Interfaced MATrix Environment
+climate stands for **C**ommand **L**ine **I**nterfaced **MAT**rix **E**nvironment #
 climate is a runtime environment for performing basic I/O and operations on
 1D integer arrays.
 To run climate on windows,
